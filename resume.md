@@ -3,7 +3,7 @@ Megan Clarke
 
 #### [Geography](geo.appstate.edu) Student, Appalachian State University.
 
-<img src="/images/mountains.JPG" width="160"/>
+<img src="images/mountains.JPG" width="160"/>
 
 ##### _Boone, North Carolina, USA._ 
 
